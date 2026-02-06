@@ -25,6 +25,16 @@ The app follows a modular Activity-based structure:
 * `NotesActivity.java`: Interface for writing and saving academic text.
 * `ReminderActivity.java`: Features a `TimePicker` and toast-based notification logic.
 
+## 📂 Project Structure
+
+```
+app/src/main/java/com/example/studentplanner/
+├── MainActivity.java    # The central navigation hub
+├── TaskActivity.java    # Logic for task creation and management
+├── NotesActivity.java   # Note-taking functionality
+└── ReminderActivity.java # Time-based alert and notification system
+```
+
 ## 📥 Installation
 
 1.  **Clone the Repository**:
