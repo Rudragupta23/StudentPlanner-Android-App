@@ -4,7 +4,6 @@ A specialized Android application designed to help students streamline their aca
 
 ## 🚀 Key Features
 
-* **Task Management**: Log and track academic assignments and deadlines.
 * **Note Taking**: A quick and easy way to capture and store study notes.
 * **Smart Reminders**: Integrated `TimePicker` system that allows users to set specific times for alerts, ensuring no deadline is missed.
 * **Clean Navigation**: Simple dashboard-style UI for quick access to all modules.
