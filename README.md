@@ -48,7 +48,5 @@ app/src/main/java/com/example/studentplanner/
 4.  **Run**:
     Press `Run 'app'` (or `Shift + F10`) to deploy to your emulator or physical device.
 
-## 📄 License
 
-This project is open-source. Please check the repository for specific license details.
 
