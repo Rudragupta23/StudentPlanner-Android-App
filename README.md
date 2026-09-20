@@ -1,6 +1,6 @@
 # Student Planner Android App 🎓
 
-A specialized Android application designed to help students streamline their academic life. This app provides a centralized hub for managing tasks, keeping lecture notes and, setting timely reminders.
+A specialized Android application designed to help students streamline their academic life. This app provides a centralized hub for managing tasks, keeping lecture notes and setting timely reminders.
 
 ## 🚀 Key Features
 
